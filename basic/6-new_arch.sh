@@ -16,7 +16,7 @@ echo "LANG=en_US.UTF-8" > /etc/locale.conf
 echo "Arch-Yahoo" > /etc/hostname
 cat >> /etc/hosts << "EOF"
 127.0.0.1	localhost
-::1		locahost
+::1	locahost
 127.0.1.1	Arch-Yahoo.localdomain Arch-Yahoo
 EOF
 
