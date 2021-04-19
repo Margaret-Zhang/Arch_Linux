@@ -36,4 +36,3 @@ echo -e "\tgrub-install --target=x86_64-efi --efi-directory=/boot/efi --bootload
 echo -e "\tgrub-mkconfig -o /boot/grub/grub.cfg"
 echo -e "\tblkid"
 echo -e "\tvim /etc/fstab"
-

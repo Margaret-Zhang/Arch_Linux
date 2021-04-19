@@ -10,4 +10,3 @@ EOF
 
 pacman -Sy --noconfirm archlinuxcn-keyring
 pacman -Syu --noconfirm
-

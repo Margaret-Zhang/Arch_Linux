@@ -19,5 +19,4 @@ read name password
 wpa_supplicant -B -i $NA -c <(wpa_passphrase $name $password)
 dhcpcd $NA
 
-head -7 README.md | tail -1
-
+echo "bash 2-mount_disk.sh"

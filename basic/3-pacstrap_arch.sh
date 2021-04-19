@@ -13,5 +13,4 @@ EOF
 
 pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware neofetch vim nano grub ntfs-3g dhcpcd wpa_supplicant os-prober net-tools wget openssh dhcpcd efibootmgr
 
-head -9 README.md | tail -1
-
+echo "bash 4-genfstab_arch.sh"

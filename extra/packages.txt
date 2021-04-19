@@ -1,3 +1,6 @@
+# screen shot
+-> flameshot
+
 # fonts
 -> wqy-zenhei ttf-dejavu
 

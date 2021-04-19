@@ -30,5 +30,4 @@ mount $Root /mnt
 # prompt
 echo "If your computer is UEFI + GPT, please run: mkdir -pv /mnt/boot/efi && mount /dev/sd?x(ESP) /mnt/boot/efi."
 
-head -8 README.md | tail -1
-
+echo "bash 3-pacstrap_arch.sh"

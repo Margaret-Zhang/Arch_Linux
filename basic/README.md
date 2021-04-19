@@ -1,6 +1,6 @@
 ## This script is for computer with WIFI, GPT(GUID) disk and boot by UEFI mode.
-## version 1.5
-## date 03.27.2021
+## version 1.6
+## date 04.19.2021
 ## install archlinux basic system(target mounted on /mnt, use ustc mirrors)
 
 1. bash 1-link_WIFI.sh

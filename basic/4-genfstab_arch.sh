@@ -6,5 +6,4 @@ genfstab -U /mnt >> /mnt/etc/fstab
 echo "print file /mnt/etc/fstab"
 cat /mnt/etc/fstab
 
-head -10 README.md | tail -1
-
+echo "bash 4-genfstab_arch.sh"
