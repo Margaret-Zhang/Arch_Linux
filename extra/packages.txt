@@ -1,3 +1,12 @@
+# media player
+-> mplayer vlc
+
+# kde plasma drop-down terminal emulator
+-> yakuake
+
+# kde plasma image viewer
+-> gwenview
+
 # screen shot
 -> flameshot
 
